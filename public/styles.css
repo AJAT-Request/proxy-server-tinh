@@ -1,0 +1,21 @@
+#app {
+  display: inline-flex;
+  position: relative;
+  padding-left: 190px;
+}
+
+#BookingBox {
+  display: inline-flex;
+  position: fixed;
+  right: 30px;
+  top: 75px;
+  z-index: 1;
+  float: right;
+}
+
+#carousel {
+  position: relative;
+  width: 90%;
+  margin: auto;
+  padding-bottom: 15px;
+}
