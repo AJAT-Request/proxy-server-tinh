@@ -5,14 +5,6 @@
   width: 70%;
 }
 
-#BookingBox {
-  display: relative;
-  position: fixed;
-  right: 30px;
-  top: 75px;
-  z-index: 1;
-}
-
 #carousel {
   position: relative;
   width: 80%;
@@ -21,4 +13,20 @@
   border-top: 1px solid #EBEBEB;
   padding-bottom: 15px;
   z-index: 2;
+}
+
+.app-container {
+  display: inline-flex;
+  padding-right: 10px;
+}
+
+.booking-container {
+  display: inline-flex;
+  position: sticky;
+  top: 30px;
+  padding-left: 40px;
+}
+
+.top-container {
+  padding-left: 150px;
 }
