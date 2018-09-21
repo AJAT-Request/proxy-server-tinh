@@ -1,0 +1,24 @@
+#app {
+  padding-bottom: 50px;
+  position: relative;
+  padding-left: 50px;
+  width: 70%;
+}
+
+#BookingBox {
+  display: relative;
+  position: fixed;
+  right: 30px;
+  top: 75px;
+  z-index: 1;
+}
+
+#carousel {
+  position: relative;
+  width: 80%;
+  margin: auto;
+  padding-top: 18px;
+  border-top: 1px solid #EBEBEB;
+  padding-bottom: 15px;
+  z-index: 2;
+}
