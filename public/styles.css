@@ -5,6 +5,10 @@
   width: 70%;
 }
 
+#banner {
+  position: relative;
+}
+
 #carousel {
   position: relative;
   width: 80%;
@@ -29,4 +33,9 @@
 
 .top-container {
   padding-left: 150px;
+}
+
+#search-bar {
+  position: relative;
+  width: 100%;
 }

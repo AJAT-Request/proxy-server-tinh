@@ -5,7 +5,7 @@ const app = express();
 const port = 3000;
 
 app.use(express.static(path.join(__dirname, '../public')));
-app.use('/listings', proxy({target: 'http://localhost:3001'}));
+app.use('/listings', proxy({target: 'http://ec2-54-183-253-46.us-west-1.compute.amazonaws.com:3001'}));
 app.use('/reviews', proxy({target: 'http://localhost:3002'}));
 app.use('/bookingBox', proxy({target: 'http://localhost:3003'}));
 
