@@ -1,39 +1,14 @@
-# Project Name
+# Front End Capstone - OG BnB
 
-> Project description
+> Working in a team to replicate Airbnb
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/AJAT-Request/proxy-server-james
+  - https://github.com/AJAT-Request/proxy-server-arjun
 
-## Table of Contents
+## Visit the Page
 
-1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
+http://ogbnb.us-west-1.elasticbeanstalk.com:3000/rooms/1 
 
-## Usage
-
-> Some usage instructions
-
-## Requirements
-
-An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
-
-- Node 6.13.0
-- etc
-
-## Development
-
-### Installing Dependencies
-
-From within the root directory:
-
-```sh
-npm install -g webpack
-npm install
-```
-
+You can visit rooms 1 - 99.
