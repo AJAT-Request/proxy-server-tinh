@@ -1,6 +1,6 @@
-# Front End Capstone - OG BnB
+#  OGBnB
 
-> Working in a team to replicate Airbnb
+> Full stack app to post your house as a listing and book reservations
 
 ## Related Projects
 
